@@ -1,5 +1,5 @@
 # table-email-template
-HTML table email template with hower highlighter.
+HTML table email template with hover highlighting.
 
 
 ## Installation
